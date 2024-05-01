@@ -1,5 +1,5 @@
 Welcome to Nexus Encrypter's documentation!
-===================================
+==============================================
 
 **Nexus Encrypter** Nexus Encrypter Is A Fast Encrypting Library Where You Can Use:
 
