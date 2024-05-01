@@ -156,3 +156,7 @@ is the same as
 .. code-block:: python
 
    nexusencrypter.create(keyname)
+
+Full Example
+-------------------
+.. include:: my_code_example.txt
