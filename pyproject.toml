@@ -1,4 +1,5 @@
 [project]
 name = "nexusencrypter"
+version = "0.1.0"
 authors = [{name = "Serafim Zmas", email = ""},{name="Odysseas Chryssos", email="info@goldencube.dev"}]
 dynamic = ["version", "description"]
